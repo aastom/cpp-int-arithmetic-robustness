@@ -177,6 +177,14 @@ Enter the second integer: 45
 The sum of the two integers is: 168
 ```
 
+## 📚 Documentation
+
+All comprehensive documentation for this project is hosted on Google Drive:
+
+*   **Drive Folder:** [Integer Arithmetic Robustness — R&D Lab](https://drive.google.com/drive/folders/1OZ8B7cWeWC4jdFnRIGVzbtjyfdt7f1iV)
+*   **Documentation Bundle:** [Integer Arithmetic Robustness - Documentation Bundle](https://docs.google.com/document/d/1fSZZZAgcm6IRIfQrguGDFb8-43alEysbOvq5mOf6i3Q/edit?usp=drivesdk)
+*   **Learning Roadmap:** [Learning Roadmap - Integer Arithmetic Robustness](https://docs.google.com/document/d/1gg73xT0LFT4jQgC3ejuhvp6jpY6QaRj040Ad0AFmAYg/edit?usp=drivesdk)
+
 ## References
 
 *   [C++ Standard - Integer types](https://en.cppreference.com/w/cpp/language/integer_types)
