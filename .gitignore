@@ -1,0 +1,52 @@
+# C++ build artifacts
+*.o
+*.ko
+*.obj
+*.ilk
+*.meta
+*.suo
+*.pdb
+*.tlog
+*.idb
+*.ipdb
+*.rsp
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Debugging symbols
+*.dSYM
+*.pdb
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+DartConfiguration.tcl
+Testing/
+_CPack_Packages/
+install/
+
+# Build directory
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+*.user
+*.filters
+*.vcxproj
+
+# Miscellaneous
+*
